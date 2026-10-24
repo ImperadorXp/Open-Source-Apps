@@ -59,10 +59,6 @@ Este repositório reúne aplicativos e alternativas para quem deseja ter mais co
 - 🌐 Reduzir a dependência dos serviços do Google.
 - 🆓 Incentivar o uso de ferramentas livres e acessíveis.
 
-### ⚠️ Observações
-
-Nem todos os aplicativos listados necessariamente são totalmente independentes do Google ou possuem todas as funcionalidades de código aberto. A disponibilidade, as permissões e as dependências podem variar conforme o aplicativo e sua versão. Verifique a licença, o código-fonte e os requisitos de cada projeto antes de instalar.
-
 ---
 
 ⭐ Se este projeto foi útil para você, deixe uma estrela no repositório e compartilhe com outras pessoas interessadas em privacidade, software livre e alternativas ao Google.
