@@ -25,7 +25,7 @@ O objetivo deste repositório é reunir aplicativos que priorizam a privacidade,
 ## ⌨️ Personalização e sistema
 
 - [Teclado — Helium Keyboard](https://f-droid.org/en/packages/helium314.keyboard/)
-- [Wallpapers — Bnyro Wallpapers](https://f-droid.org/packages/com.bnyro.wallpaper)
+- [Wallpapers — Wall You Wallpapers](https://f-droid.org/packages/com.bnyro.wallpaper)
 - [Medidor de FPS para jogos — FPS Meter](https://f-droid.org/packages/com.rdevzph.fpsmeter)
 
 ## 🗺️ Navegação e localização
