@@ -1,8 +1,19 @@
+
 # 📱 Aplicativos Open Source e Alternativas ao Google
 
 Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
 
 O objetivo deste repositório é reunir aplicativos que priorizam a privacidade, a transparência e a liberdade de escolha, oferecendo alternativas para o uso diário no Android.
+
+## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
+
+Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-instalados no Android. Antes de remover qualquer pacote, confira o que ele faz e siga as instruções do tutorial com cuidado: remover componentes essenciais pode causar falhas no sistema.
+
+- [Tutorial de Debloat 1 — YouTube](https://youtu.be/J156-yN4tIA?si=v_iQ1teZyHCh6xMd)
+- [Tutorial de Debloat 2 — YouTube](https://youtu.be/Bz9rX6rs344?si=zGXNJyUPUCMc51tN)
+- [Tutorial de Debloat 3 — YouTube](https://youtu.be/Kq4wHqEBT0Q?si=4kxW_o05TQntp0bV)
+
+---
 
 ## 📞 Comunicação e organização
 
@@ -38,6 +49,8 @@ O objetivo deste repositório é reunir aplicativos que priorizam a privacidade,
 ## 🤖 Inteligência artificial
 
 - [Assistente de IA — Duck.ai Assist](https://f-droid.org/packages/org.duckassist.app)
+- [Free LLM API](https://play.google.com/store/apps/details?id=co.freellmapi.app)
+- [Claude](https://play.google.com/store/apps/details?id=com.anthropic.claude)
 
 ## 🎵 Música e vídeos
 
@@ -49,6 +62,14 @@ O objetivo deste repositório é reunir aplicativos que priorizam a privacidade,
 ## 🛍️ Aplicativos e lojas alternativas
 
 - [Aurora Store — Alternativa à Google Play Store](https://f-droid.org/packages/com.aurora.store)
+
+---
+
+## 🎁 Bônus — Aplicativos com patches ReVanced
+
+- [Repositório comunitário de aplicativos ReVanced e ReVanced Extended](https://github.com/awexandrr/revanced-app) — reúne compilações para vários aplicativos, incluindo opções para YouTube, YouTube Music, Instagram, Threads, Facebook, Messenger, Reddit, X/Twitter e Google Photos. A disponibilidade pode variar; confira os detalhes e as fontes antes de instalar.
+
+**Atenção:** este é um repositório de terceiros, não a fonte oficial do projeto ReVanced. Baixe apenas se confiar na origem e verifique os arquivos antes de instalar.
 
 ---
 
