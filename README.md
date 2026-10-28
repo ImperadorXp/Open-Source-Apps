@@ -27,6 +27,16 @@ Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-inst
 - [Gravador de voz — Fossify Voice Recorder](https://f-droid.org/packages/org.fossify.voicerecorder/)
 - [Bloco de notas — NotallyX](https://play.google.com/store/apps/details?id=com.philkes.notallyx)
 
+## 🟢 WhatsApp — Ferramentas Open Source
+
+Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos status no seu dispositivo.
+
+- [WhatsApp Cleaner — Limpeza de arquivos e mídias](https://f-droid.org/packages/com.vishnu.whatsappcleaner)
+- [LibreStatus — Baixar e salvar status](https://f-droid.org/packages/com.vaishnavmandlik.librestatus)
+- [Whatsap Status — Baixar fotos e vídeos dos status](https://f-droid.org/packages/com.vinithreddybanda.whatsapstatus)
+
+**Nota:** os aplicativos de status precisam acessar as mídias disponíveis no dispositivo. Visualize o status no WhatsApp antes de tentar salvá-lo e respeite a privacidade de outras pessoas. O WhatsApp Cleaner pode apagar arquivos, então revise os itens antes de confirmar a exclusão.
+
 ## 📂 Arquivos e produtividade
 
 - [Galeria — Iris Gallery](https://github.com/MohamadOday/iris-gallery)
