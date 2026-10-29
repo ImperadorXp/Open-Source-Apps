@@ -7,6 +7,15 @@ O objetivo deste repositório é reunir aplicativos que priorizam a privacidade,
 
 ## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
 
+
+# 📱 Aplicativos Open Source e Alternativas ao Google
+
+Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
+
+O objetivo deste repositório é reunir aplicativos que priorizam a privacidade, a transparência e a liberdade de escolha, oferecendo alternativas para o uso diário no Android.
+
+## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
+
 Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-instalados no Android. Antes de remover qualquer pacote, confira o que ele faz e siga as instruções do tutorial com cuidado: remover componentes essenciais pode causar falhas no sistema.
 
 - [Tutorial de Debloat 1 — YouTube](https://youtu.be/J156-yN4tIA?si=v_iQ1teZyHCh6xMd)
@@ -26,6 +35,7 @@ Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-inst
 - [Relógio — Fossify Clock](https://f-droid.org/packages/org.fossify.clock/)
 - [Gravador de voz — Fossify Voice Recorder](https://f-droid.org/packages/org.fossify.voicerecorder/)
 - [Bloco de notas — NotallyX](https://play.google.com/store/apps/details?id=com.philkes.notallyx)
+- [Bloco de notas — LibreNotes](https://f-droid.org/packages/dev.librenotes.app)
 
 ## 🟢 WhatsApp — Ferramentas Open Source
 
@@ -35,7 +45,7 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [LibreStatus — Baixar e salvar status](https://f-droid.org/packages/com.vaishnavmandlik.librestatus)
 - [Whatsap Status — Baixar fotos e vídeos dos status](https://f-droid.org/packages/com.vinithreddybanda.whatsapstatus)
 
-**Nota:** os aplicativos de status precisam acessar as mídias disponíveis no dispositivo. Visualize o status no WhatsApp antes de tentar salvá-lo e respeite a privacidade de outras pessoas. O WhatsApp Cleaner pode apagar arquivos, então revise os itens antes de confirmar a exclusão.
+**Nota:** visualize os status no WhatsApp antes de tentar salvá-los e respeite a privacidade de outras pessoas. Revise os arquivos antes de confirmar qualquer exclusão no WhatsApp Cleaner.
 
 ## 📂 Arquivos e produtividade
 
@@ -51,6 +61,11 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Wallpapers — Wall You Wallpapers](https://f-droid.org/packages/com.bnyro.wallpaper)
 - [Medidor de FPS para jogos — FPS Meter](https://f-droid.org/packages/com.rdevzph.fpsmeter)
 - [Limpeza de cache e manutenção — SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
+
+## 🚀 Launchers — personalização da tela inicial
+
+- [Murine Launcher](https://f-droid.org/packages/app.murinelauncher)
+- [Arki Launcher](https://f-droid.org/packages/org.arkikeskus.launcher)
 
 ## 🗺️ Navegação e localização
 
@@ -77,9 +92,9 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 
 ## 🎁 Bônus — Aplicativos com patches ReVanced
 
-- [Repositório comunitário de aplicativos ReVanced e ReVanced Extended](https://github.com/awexandrr/revanced-app) — reúne compilações para vários aplicativos, incluindo opções para YouTube, YouTube Music, Instagram, Threads, Facebook, Messenger, Reddit, X/Twitter e Google Photos. A disponibilidade pode variar; confira os detalhes e as fontes antes de instalar.
+- [Repositório comunitário de aplicativos ReVanced e ReVanced Extended](https://github.com/awexandrr/revanced-app) — opções para YouTube, YouTube Music, Instagram, Threads, Facebook, Messenger, Reddit, X/Twitter e Google Photos. A disponibilidade pode variar; confira os detalhes e as fontes antes de instalar.
 
-**Atenção:** este é um repositório de terceiros, não a fonte oficial do projeto ReVanced. Baixe apenas se confiar na origem e verifique os arquivos antes de instalar.
+**Atenção:** este é um repositório de terceiros, não a fonte oficial do projeto ReVanced. Verifique os arquivos e a origem antes de instalar.
 
 ---
 
