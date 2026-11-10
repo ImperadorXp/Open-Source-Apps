@@ -16,6 +16,15 @@ O objetivo deste repositório é reunir aplicativos que priorizam a privacidade,
 
 ## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
 
+
+# 📱 Aplicativos Open Source e Alternativas ao Google
+
+Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
+
+O objetivo deste repositório é reunir aplicativos que priorizam a privacidade, a transparência e a liberdade de escolha, oferecendo alternativas para o uso diário no Android.
+
+## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
+
 Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-instalados no Android. Antes de remover qualquer pacote, confira o que ele faz e siga as instruções do tutorial com cuidado: remover componentes essenciais pode causar falhas no sistema.
 
 - [Tutorial de Debloat 1 — YouTube](https://youtu.be/J156-yN4tIA?si=v_iQ1teZyHCh6xMd)
@@ -66,6 +75,8 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 
 - [Murine Launcher](https://f-droid.org/packages/app.murinelauncher)
 - [Arki Launcher](https://f-droid.org/packages/org.arkikeskus.launcher)
+- [Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnchair/releases)
+- [Boo Launcher](https://play.google.com/store/apps/details?id=boo.noce.launcher)
 
 ## 🗺️ Navegação e localização
 
@@ -76,6 +87,8 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Assistente de IA — Duck.ai Assist](https://f-droid.org/packages/org.duckassist.app)
 - [Free LLM API](https://play.google.com/store/apps/details?id=co.freellmapi.app)
 - [Claude](https://play.google.com/store/apps/details?id=com.anthropic.claude)
+- [AI Hub — Agregador de assistentes de IA](https://f-droid.org/packages/com.foss.aihub)
+- [PocketPal AI — Inteligência artificial local e offline](https://play.google.com/store/apps/details?id=com.pocketpalai)
 
 ## 🎵 Música e vídeos
 
