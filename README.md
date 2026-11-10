@@ -76,7 +76,7 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Murine Launcher](https://f-droid.org/packages/app.murinelauncher)
 - [Arki Launcher](https://f-droid.org/packages/org.arkikeskus.launcher)
 - [Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnchair/releases)
-- [Boo Launcher](https://play.google.com/store/apps/details?id=boo.noce.launcher)
+- [Nocebo Launcher](https://play.google.com/store/apps/details?id=boo.noce.launcher)
 
 ## 🗺️ Navegação e localização
 
