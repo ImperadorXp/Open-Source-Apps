@@ -1,4 +1,3 @@
-
 # 📱 Aplicativos Open Source e Alternativas ao Google
 
 Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
@@ -7,25 +6,7 @@ O objetivo deste repositório é reunir aplicativos que priorizam a privacidade,
 
 ## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
 
-
-# 📱 Aplicativos Open Source e Alternativas ao Google
-
-Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
-
-O objetivo deste repositório é reunir aplicativos que priorizam a privacidade, a transparência e a liberdade de escolha, oferecendo alternativas para o uso diário no Android.
-
-## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
-
-
-# 📱 Aplicativos Open Source e Alternativas ao Google
-
-Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
-
-O objetivo deste repositório é reunir aplicativos que priorizam a privacidade, a transparência e a liberdade de escolha, oferecendo alternativas para o uso diário no Android.
-
-## 🧹 Tutoriais de Debloat — remover aplicativos pré-instalados
-
-Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-instalados no Android. Antes de remover qualquer pacote, confira o que ele faz e siga as instruções do tutorial com cuidado: remover componentes essenciais pode causar falhas no sistema.
+Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-instalados no Android.
 
 - [Tutorial de Debloat 1 — YouTube](https://youtu.be/J156-yN4tIA?si=v_iQ1teZyHCh6xMd)
 - [Tutorial de Debloat 2 — YouTube](https://youtu.be/Bz9rX6rs344?si=zGXNJyUPUCMc51tN)
@@ -46,41 +27,50 @@ Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-inst
 - [Bloco de notas — NotallyX](https://play.google.com/store/apps/details?id=com.philkes.notallyx)
 - [Bloco de notas — LibreNotes](https://f-droid.org/packages/dev.librenotes.app)
 
-## 🟢 WhatsApp — Ferramentas Open Source
+## 💬 WhatsApp — ferramentas Open Source
 
-Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos status no seu dispositivo.
+Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos status.
 
 - [WhatsApp Cleaner — Limpeza de arquivos e mídias](https://f-droid.org/packages/com.vishnu.whatsappcleaner)
 - [LibreStatus — Baixar e salvar status](https://f-droid.org/packages/com.vaishnavmandlik.librestatus)
 - [Whatsap Status — Baixar fotos e vídeos dos status](https://f-droid.org/packages/com.vinithreddybanda.whatsapstatus)
 
-**Nota:** visualize os status no WhatsApp antes de tentar salvá-los e respeite a privacidade de outras pessoas. Revise os arquivos antes de confirmar qualquer exclusão no WhatsApp Cleaner.
-
 ## 📂 Arquivos e produtividade
 
 - [Galeria — Iris Gallery](https://github.com/MohamadOday/iris-gallery)
+- [Galeria — Simplify Gallery — Galeria Android com foco em privacidade, pastas locais e editor de fotos](https://github.com/simplifymy-app/gallery)
+- [Galeria — Photon Gallery — Galeria Android de código aberto com design Material 3 e recursos inteligentes](https://github.com/Bn5prS/Photon_Gallery)
 - [Gerenciador de arquivos — Fylo File Manager](https://play.google.com/store/apps/details?id=com.aeroloom.fylofilemanager)
 - [Gerenciador de e-mail — Thunderbird](https://f-droid.org/packages/net.thunderbird.android/)
 - [Gerenciador de senhas — Wassword](https://f-droid.org/packages/com.albertobonacina.wassword/)
 - [Leitor e player de mídia — VLC](https://f-droid.org/packages/org.videolan.vlc/)
 
-## ⌨️ Personalização e sistema
+## ⌨️ Teclados
 
-- [Teclado — Helium Keyboard](https://f-droid.org/en/packages/helium314.keyboard/)
+- [LeanType — Teclado de código aberto baseado no Heliboard, com recursos adicionais e personalização](https://github.com/LeanBitLab/LeanType)
+- [Bucky — Teclado com layout completo para PC no Android, voltado para Termux, SSH e programação](https://github.com/DimiVlachos/bucky)
+- [Simple Keyboard — Teclado simples para quem precisa apenas das funções essenciais](https://github.com/rkkr/simple-keyboard)
+- [Helium Keyboard](https://f-droid.org/en/packages/helium314.keyboard/)
+
+## 🎨 Personalização e sistema
+
 - [Wallpapers — Wall You Wallpapers](https://f-droid.org/packages/com.bnyro.wallpaper)
 - [Medidor de FPS para jogos — FPS Meter](https://f-droid.org/packages/com.rdevzph.fpsmeter)
 - [Limpeza de cache e manutenção — SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
-## 🚀 Launchers — personalização da tela inicial
+### Launchers — personalização da tela inicial
 
 - [Murine Launcher](https://f-droid.org/packages/app.murinelauncher)
 - [Arki Launcher](https://f-droid.org/packages/org.arkikeskus.launcher)
 - [Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnchair/releases)
 - [Nocebo Launcher](https://play.google.com/store/apps/details?id=boo.noce.launcher)
 
-## 🗺️ Navegação e localização
+## 🗺️ Mapas e GPS
 
-- [GPS — Vela](https://github.com/PimpinPumpkin/Vela)
+- [Vela Maps — Mapas nativos para Android com tiles vetoriais](https://github.com/PimpinPumpkin/Vela)
+- [Organic Maps — Mapas e GPS offline para caminhadas, ciclismo e navegação](https://github.com/organicmaps/organicmaps)
+- [CoMaps — Aplicativo de mapas gratuito e de código aberto](https://codeberg.org/comaps/comaps)
+- [OsmAnd — Visualização e navegação de mapas online e offline](https://f-droid.org/packages/net.osmand.plus/)
 
 ## 🤖 Inteligência artificial
 
@@ -96,18 +86,17 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Alternativa ao Spotify — MySpoti](https://github.com/kota-zo/myspoti/releases/tag/v2.0.0)
 - [Reprodutor de música — Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [Reprodutor de música — Lotus](https://github.com/dn0ne/lotus)
+- [Looper Player — Reprodutor de música offline para Android, Linux e Windows](https://github.com/SthrNilshaaa/looper)
+- [Rhythm Music — Reprodutor de música para Android com foco em privacidade](https://github.com/cromaguy/Rhythm)
+- [ArchiveTune — Reprodutor de música com suporte a arquivos locais e YouTube Music](https://github.com/rukamori/ArchiveTune)
 
 ## 🛍️ Aplicativos e lojas alternativas
 
 - [Aurora Store — Alternativa à Google Play Store](https://f-droid.org/packages/com.aurora.store)
 
----
+## 🎁 Bônus — aplicativos com patches ReVanced
 
-## 🎁 Bônus — Aplicativos com patches ReVanced
-
-- [Repositório comunitário de aplicativos ReVanced e ReVanced Extended](https://github.com/awexandrr/revanced-app) — opções para YouTube, YouTube Music, Instagram, Threads, Facebook, Messenger, Reddit, X/Twitter e Google Photos. A disponibilidade pode variar; confira os detalhes e as fontes antes de instalar.
-
-**Atenção:** este é um repositório de terceiros, não a fonte oficial do projeto ReVanced. Verifique os arquivos e a origem antes de instalar.
+- [Repositório comunitário de aplicativos ReVanced e ReVanced Extended](https://github.com/awexandrr/revanced-app) — opções para YouTube, YouTube Music, Instagram, Threads, Facebook, Messenger, Reddit, X/Twitter e Google Photos.
 
 ---
 
