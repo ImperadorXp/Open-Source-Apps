@@ -1,3 +1,4 @@
+
 # 📱 Aplicativos Open Source e Alternativas ao Google
 
 Aplicativos open source e alternativas que respeitam sua privacidade! Explore aplicativos independentes dos serviços do Google para substituir os apps nativos do sistema e os aplicativos do Google por opções livres, seguras e transparentes. 🔓🌐
@@ -24,7 +25,6 @@ Debloat é o processo de desinstalar ou desativar aplicativos que vêm pré-inst
 - [Calculadora — Unitto](https://f-droid.org/packages/com.sadellie.unitto)
 - [Relógio — Fossify Clock](https://f-droid.org/packages/org.fossify.clock/)
 - [Gravador de voz — Fossify Voice Recorder](https://f-droid.org/packages/org.fossify.voicerecorder/)
-- [Bloco de notas — NotallyX](https://play.google.com/store/apps/details?id=com.philkes.notallyx)
 - [Bloco de notas — LibreNotes](https://f-droid.org/packages/dev.librenotes.app)
 
 ## 💬 WhatsApp — ferramentas Open Source
@@ -44,6 +44,13 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Gerenciador de e-mail — Thunderbird](https://f-droid.org/packages/net.thunderbird.android/)
 - [Gerenciador de senhas — Wassword](https://f-droid.org/packages/com.albertobonacina.wassword/)
 - [Leitor e player de mídia — VLC](https://f-droid.org/packages/org.videolan.vlc/)
+
+## 📝 Notas
+
+- [Easy Notes — Criação, edição e organização de notas](https://github.com/Kin69/EasyNotes)
+- [NotallyX — Aplicativo de anotações minimalista e extensivo para Android](https://github.com/Crustack/NotallyX)
+- [Tuisku — Aplicativo simples e leve de notas criptografadas](https://github.com/omaawr/tuisku)
+- [Singlenote — Aplicativo para concentrar-se em uma nota de cada vez](https://github.com/yungsamd17/singlenote)
 
 ## ⌨️ Teclados
 
@@ -65,12 +72,26 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnchair/releases)
 - [Nocebo Launcher](https://play.google.com/store/apps/details?id=boo.noce.launcher)
 
+## 🌐 Navegadores
+
+- [IronFox — Navegador privado e focado no usuário para Android](https://ironfoxoss.org/download/#direct)
+- [Titanium — Navegador Android de código aberto com suporte a extensões](https://github.com/jqssun/android-titanium-browser)
+- [Fennec — Navegador para Android](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
+- [Brave — Navegador para Android](https://github.com/brave/brave-browser)
+
 ## 🗺️ Mapas e GPS
 
 - [Vela Maps — Mapas nativos para Android com tiles vetoriais](https://github.com/PimpinPumpkin/Vela)
 - [Organic Maps — Mapas e GPS offline para caminhadas, ciclismo e navegação](https://github.com/organicmaps/organicmaps)
 - [CoMaps — Aplicativo de mapas gratuito e de código aberto](https://codeberg.org/comaps/comaps)
 - [OsmAnd — Visualização e navegação de mapas online e offline](https://f-droid.org/packages/net.osmand.plus/)
+
+## 📷 Câmeras
+
+- [Open Camera — Aplicativo de câmera de código aberto e cheio de recursos](https://f-droid.org/packages/net.sourceforge.opencamera/)
+- [Fossify Camera — Câmera para fotos e vídeos](https://github.com/FossifyOrg/Camera)
+- [Secure Camera — Câmera com foco em privacidade e segurança](https://github.com/GrapheneOS/Camera)
+- [Photon Camera — Aplicativo de câmera de código aberto para fotografia estática](https://github.com/bijhou/PhotonCamera)
 
 ## 🤖 Inteligência artificial
 
