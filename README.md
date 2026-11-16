@@ -91,7 +91,7 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Open Camera — Aplicativo de câmera de código aberto e cheio de recursos](https://f-droid.org/packages/net.sourceforge.opencamera/)
 - [Fossify Camera — Câmera para fotos e vídeos](https://github.com/FossifyOrg/Camera)
 - [Secure Camera — Câmera com foco em privacidade e segurança](https://github.com/GrapheneOS/Camera)
-- [Photon Camera — Aplicativo de câmera de código aberto para fotografia estática](https://github.com/bjzhou/PhotonCamera/releases/tag/1.28.7)
+- [Photon Camera — Aplicativo de câmera de código aberto para fotografia estática](https://github.com/bjzhou/PhotonCamera)
 
 ## 🤖 Inteligência artificial
 
