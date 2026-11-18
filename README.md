@@ -91,7 +91,7 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Open Camera — Aplicativo de câmera de código aberto e cheio de recursos](https://f-droid.org/packages/net.sourceforge.opencamera/)
 - [Fossify Camera — Câmera para fotos e vídeos](https://github.com/FossifyOrg/Camera)
 - [Secure Camera — Câmera com foco em privacidade e segurança](https://github.com/GrapheneOS/Camera)
-- [Photon Camera — Aplicativo de câmera de código aberto para fotografia estática](https://github.com/bjzhou/PhotonCamera)
+- [Photon Camera — Aplicativo de câmera de código aberto para fotografia estática](https://github.com/bjzhou/PhotonCamera/releases/tag/1.28.7)
 
 ## 🤖 Inteligência artificial
 
@@ -111,9 +111,26 @@ Ferramentas para gerenciar arquivos do WhatsApp e salvar fotos e vídeos dos sta
 - [Rhythm Music — Reprodutor de música para Android com foco em privacidade](https://github.com/cromaguy/Rhythm)
 - [ArchiveTune — Reprodutor de música com suporte a arquivos locais e YouTube Music](https://github.com/rukamori/ArchiveTune)
 
-## 🛍️ Aplicativos e lojas alternativas
+## 🛍️ Lojas de aplicativos
 
 - [Aurora Store — Alternativa à Google Play Store](https://f-droid.org/packages/com.aurora.store)
+- [Neo Store — Cliente moderno para F-Droid, IzzyOnDroid e outros repositórios](https://github.com/NeoApplications/Neo-Store)
+- [Komi Store — Loja de aplicativos multiplataforma para lançamentos no GitHub, Codeberg e outras forjas](https://github.com/komi-store/komi-store)
+- [Accrescent — Loja de aplicativos Android](https://github.com/accrescent/accrescent)
+- [OpenAPK — Repositório web de aplicativos gratuitos e de código aberto para Android](https://www.openapk.net/)
+
+## ⬇️ Baixadores e downloads
+
+- [YTDLnis — Baixador de áudio e vídeo para Android usando yt-dlp](https://github.com/deniscerri/ytdlnis)
+- [Clint — Navegador leve com gerenciador de downloads, bloqueio de anúncios e captura de mídia](https://github.com/jhaiian/ClintBrowser)
+- [LibreTorrent — Cliente torrent gratuito e de código aberto para Android](https://github.com/proninyaroslav/libretorrent)
+
+## 🎮 Emuladores
+
+- [PPSSPP — Emulador de PSP para Android e outras plataformas](https://github.com/hrydgard/PPSSPP)
+- [Winlator — Executa aplicativos e jogos do Windows no Android usando Wine e Box86/Box64](https://github.com/brunodev85/winlator)
+- [J2ME Loader — Emulador J2ME para Android, compatível com jogos 2D e 3D](https://github.com/nikita36078/J2ME-Loader)
+- [RetroArch — Frontend multiplataforma para a API libretro](https://github.com/libretro/RetroArch)
 
 ## 🎁 Bônus — aplicativos com patches ReVanced
 
